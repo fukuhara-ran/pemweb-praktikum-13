@@ -144,7 +144,7 @@ const props = defineProps({
                 <p class="pt-6 font-body leading-relaxed text-grey-20">{{ about.konten }}</p>
                 <div class="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
                     <div class="flex items-center justify-center sm:justify-start">
-                        <a href="https://www.instagram.com/reksa_panduasa2/"
+                        <a href="https://www.instagram.com/reksa_panduasa2/" target="_blank"
                             class="font-body text-lg font-semibold uppercase text-grey-20"> Connect with me </a>
                         <div class="hidden sm:block">
                             <i class="bx bx-chevron-right text-2xl text-primary"></i>
